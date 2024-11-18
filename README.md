@@ -10,8 +10,8 @@ making my own audio plugins (yes, I'm an audio geek unfortunately), but
 any attempt to try and dabble in learning C++ (the, from what I 
 understand, de facto DSP standard) through app-based solutions, left me
 unsatisfied and frustrated. Not to mention I'm now 40 years old, and
-have now become extremely doubtful that my ever becoming proficient
-enough in C++ to make a plugin is anywhere close to being realistic.
+have become extremely doubtful that my ever becoming proficient enough
+in C++ to make a plugin is anywhere close to being realistic.
 
 That however has not quelled my thirst and interest in learning to
 code or to program. Like so many other people though, the next and
