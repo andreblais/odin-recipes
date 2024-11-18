@@ -1,6 +1,6 @@
 # Odin Recipes
 
-*"One small step me... urrr umm... one giant step for me!"*
+*"One small step for me... urrr umm... one giant step for me!"*
 
 This is such a simple project and yet here I am incredibly proud of my 
 1996-level allrecipes.com copy-pasta!
